@@ -133,7 +133,7 @@ function hideInputBox(column) {
   addToColumn(column);
 }
 
-
+//Allows arrays to reflect the drag and drop item changes
 function rebuildArrays() {
   backlogListArray = [];
   for (let i = 0; i < backlogListEl.children.length; i++) {
