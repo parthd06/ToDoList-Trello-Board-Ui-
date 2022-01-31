@@ -46,13 +46,13 @@ function updateSavedColumns() {
   });
 }
 
-// Filter Array to remove empty values
+// Filter array to remove empty values
 function filterArray(array) {
   const filteredArray = array.filter(item => item !== null);
   return filteredArray;
 }
 
-// Create DOM Elements for each list item
+// Create DOM elements for each list item
 function createItemEl(columnEl, column, item, index) {
   // List Item
   const listEl = document.createElement('li');
