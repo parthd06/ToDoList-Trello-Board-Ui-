@@ -39,6 +39,6 @@ Checkout the main.js file for all the functions.
 
 - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Editable_content
 
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+- https://developer.mozilla.org/en-US/docs/Web/API/Element/focusout_event
 
 
