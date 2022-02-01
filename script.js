@@ -10,7 +10,7 @@ const completeListEl = document.getElementById('complete-list');
 const onHoldListEl = document.getElementById('on-hold-list');
 
 let updatedOnLoad = false;
-
+// Initialize array
 let backlogListArray = [];
 let progressListArray = [];
 let completeListArray = [];
@@ -66,7 +66,7 @@ function createItemEl(columnEl, column, item, index) {
   columnEl.appendChild(listEl);
 }
 
-
+//Update the DOM
 function updateDOM() {
   if (!updatedOnLoad) {
     getSavedColumns();
@@ -133,7 +133,7 @@ function hideInputBox(column) {
   addToColumn(column);
 }
 
-//Allows arrays to reflect the drag and drop item changes
+//Allow arrays to reflect the drag and drop item changes
 function rebuildArrays() {
   backlogListArray = [];
   for (let i = 0; i < backlogListEl.children.length; i++) {
