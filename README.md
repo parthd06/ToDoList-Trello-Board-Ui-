@@ -9,16 +9,16 @@ project development.
 
 ![]()
 
-** Hosted ** 
-- Try it out[@ToDoList-Trello-Board-Ui](https://parthd06.github.io/ToDoList-Trello-Board-Ui-/)
+## Hosted 
+- **Try it out**[@ToDoList-Trello-Board-Ui](https://parthd06.github.io/ToDoList-Trello-Board-Ui-/)
 
 
 ## Key Learning
 
-The Ui is inspired by the boards that are available on trello.
-In this project, I have used the drag-and-drop api which is used to 
+- The Ui is inspired by the boards that are available on trello.
+- In this project, I have used the drag-and-drop api which is used to 
 move tasks from one columns to another. 
-It uses the local storage to store and update the content for you. 
+- It uses the local storage to store and update the content for you. 
 
 ## Run Locally
 
