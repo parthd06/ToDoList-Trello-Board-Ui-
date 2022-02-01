@@ -5,22 +5,22 @@ Trello is a web-based, Kanban-style, list-making application.
 This project is an attempt to develop a similar user interface, add functionalities similar to the one used on Trello to create a scrum board, to-do list, or in 
 project development.
 
-## Live Demo
+## Live Demo:
 
 ![]()
 
-## Hosted 
+## Hosted at:
 - **Try it out**[@ToDoList-Trello-Board-Ui](https://parthd06.github.io/ToDoList-Trello-Board-Ui-/)
 
 
-## Key Learning
+## Key Learning:
 
 - The Ui is inspired by the boards that are available on trello.
 - In this project, I have used the drag-and-drop api which is used to 
 move tasks from one columns to another. 
 - It uses the local storage to store and update the content for you. 
 
-## Run Locally
+## Run Locally:
 
 ```bash
 Clone the repository.
