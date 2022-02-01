@@ -15,10 +15,11 @@ project development.
 
 ## Key Learning:
 
-- The Ui is inspired by the boards that are available on trello.
-- In this project, I have used the drag-and-drop api which is used to 
-move tasks from one columns to another. 
-- It uses the local storage to store and update the content for you. 
+- The **user interface is inspired** by the boards that are available on the Trello website.
+- In this project, I have utilized the **drag-and-drop API** to select, drag a particular task, and drop it from one column to another.
+- It uses the **local storage** to store your content so that even if you reload, closed the browser, your tasks/list is still available for future sessions.
+- One can use this to **maintain track of his projects/assignments** on his browser without depending on any external application.
+
 
 ## Run Locally:
 
@@ -32,7 +33,12 @@ Checkout the main.js file for all the functions.
 
 ## References:
 
--https://www.w3schools.com/html/html5_draganddrop.asp
+- https://www.w3schools.com/html/html5_draganddrop.asp
 
--https://www.w3schools.com/tags/att_ondragenter.asp
+- https://www.w3schools.com/tags/att_ondragenter.asp
+
+- https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Editable_content
+
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+
 
