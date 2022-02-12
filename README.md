@@ -3,7 +3,7 @@
 
 Trello is a web-based, Kanban-style, list-making application. 
 This project is an attempt to develop a similar user interface, add functionalities similar to the one used on Trello to create a scrum board, to-do list, or in 
-project development. This was one of the initial project or a beginner level project that I build when I had just started learning about Web Development. 
+project development. This was one of the initial project that I build when I had just started learning Web Development. 
 
 ## Live Demo:
 
