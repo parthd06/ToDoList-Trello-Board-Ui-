@@ -17,7 +17,7 @@ project development. This was one of the initial project that I built when I had
 
 - The **user interface is inspired** by the boards that are available on the Trello website.
 - In this project, I have utilized the **drag-and-drop API** to select, drag a particular task, and drop it from one column to another.
-- It uses the **local storage** to store your content so that even if you reload, closed the browser, your tasks/list is still available for future sessions.
+- It uses **local storage** to store your content so that even if you reload, closed the browser, your tasks/list is still available for future sessions.
 - One can use this to **maintain track of his projects/assignments** on his browser without depending on any external application.
 
 
